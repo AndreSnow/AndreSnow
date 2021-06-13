@@ -3,7 +3,7 @@ Em 2020 comecei a cursar Analise e desenvolvimento de sistemas, desde então ven
 
 
 - 🌱 Estou aprendendo Kotlin e Flutter
-- 💬 Caso queira me perguntar algo, [clique aqui](https://github.com/andresnow/anuraghazra/issues)
+- 💬 Caso queira me perguntar algo, [clique aqui](https://github.com/andresnow/andresnow/issues)
 - :page_facing_up: Podem ver meu curriculo [aqui](https://drive.google.com/file/d/1cJXgPkOTcXvlX_lFfIiLSHuizDqFYszm/view?usp=sharing)
 
 #### Abaixo você pode entrar em contato comigo ou me conhecer melhor:
