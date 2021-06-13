@@ -6,7 +6,7 @@ Em 2020 comecei a cursar Analise e desenvolvimento de sistemas, desde então ven
 - 💬 Caso queira me perguntar algo, [clique aqui](https://github.com/andresnow/andresnow/issues)
 - :page_facing_up: Podem ver meu curriculo [aqui](https://drive.google.com/file/d/1cJXgPkOTcXvlX_lFfIiLSHuizDqFYszm/view?usp=sharing)
 
-#### Abaixo você pode entrar em contato comigo ou me conhecer melhor:
+#### Abaixo você pode entrar em contato comigo e/ou me conhecer melhor:
 
 <a href="https://www.linkedin.com/in/andr%C3%A9-n-922181a6/">
   <img align="left" alt="Linkedin de André Neves" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
