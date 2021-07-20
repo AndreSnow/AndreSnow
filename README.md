@@ -17,7 +17,7 @@ Em 2020 comecei a cursar Analise e desenvolvimento de sistemas, desde então ven
 </a>
 
 <a href="https://pt.stackoverflow.com/users/238226/andre-neves">
-  <img align="left" alt="Stackoverflow do Andre" width="30px" src="https://img-premium.flaticon.com/png/512/2111/2111628.png?token=exp=1623545084~hmac=efc23393fc2930db27c62c1296e161d7" />
+  <img align="left" alt="Stackoverflow do Andre" width="40px" src="https://img-premium.flaticon.com/png/512/2111/2111628.png?token=exp=1623545084~hmac=efc23393fc2930db27c62c1296e161d7" />
 </a>
 
 <a href="https://wa.me/message/CRQY3GBEGCC5P1">
