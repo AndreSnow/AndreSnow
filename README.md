@@ -1,10 +1,10 @@
 ## E ai, Sou o André!
-Em 2020 comecei a cursar Analise e desenvolvimento de sistemas, desde então venho me empenhando cada vez mais para aprender a programar cada dia melhor, pois quero me tornar um **Especialista em Desenvolvimento Mobile**;
+Em 2020 comecei a cursar Analise e desenvolvimento de sistemas, desde então venho me empenhando cada vez mais para aprender a programar melhor, pois quero me tornar um otimo **Desenvolvedor**;
 
 
-- 🌱 Estou aprendendo Kotlin e Flutter
+- 🌱 Estou aprendendo Python e PHP
 - 💬 Caso queira me perguntar algo, [clique aqui](https://github.com/andresnow/andresnow/issues)
-- :page_facing_up: Podem ver meu curriculo [aqui](https://drive.google.com/file/d/1cJXgPkOTcXvlX_lFfIiLSHuizDqFYszm/view?usp=sharing)
+- :page_facing_up: Podem ver meu curriculo [aqui](https://drive.google.com/file/d/1ZVTITFnuii-LPhc4mJZkdhSYZsfwcbFo/view?usp=sharing)
 
 #### Abaixo você pode entrar em contato comigo e/ou me conhecer melhor:
 
@@ -24,23 +24,26 @@ Em 2020 comecei a cursar Analise e desenvolvimento de sistemas, desde então ven
 <br />
 
 #### Essas são as ferramentas que eu estudo e desenvolvo meus projetos, atualmente:
-<img align="left" alt="Icone do android" height="30" src="https://cdn.icon-icons.com/icons2/673/PNG/128/Android_icon-icons.com_60488.png">
-<img align="left" alt="Icone do kotlin" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-<img align="left" alt="Icone do flutter" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+<img align="left" alt="Icone do python" height="30" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
+<img align="left" alt="Icone do php" height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png">
+<img align="left" alt="Icone do sql" height="30" src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png">
+<img align="left" alt="Icone do html" height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
+<img align="left" alt="Icone do css" height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">
+<!--<img align="left" alt="Icone do flutter" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 <img align="left" alt="Icone do dart" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 <img align="left" alt="Icone do firebase" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
+-->
 
 <br />
 <br />
 <br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresnow&layout=compact)](https://github.com/andresnow/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresnow&theme=algolia&show_icons=true)
 
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresnow&layout=compact)](https://github.com/andresnow/github-readme-stats)
+
 <br />
 
-<!--
 **AndreSnow/AndreSnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
