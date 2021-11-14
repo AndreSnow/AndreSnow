@@ -4,7 +4,7 @@ Em 2020 comecei a cursar Analise e desenvolvimento de sistemas, desde então ven
 
 - 🌱 Estou aprendendo Python e PHP
 - 💬 Caso queira me perguntar algo, [clique aqui](https://github.com/andresnow/andresnow/issues)
-- :page_facing_up: Podem ver meu curriculo [aqui](https://drive.google.com/file/d/1ZVTITFnuii-LPhc4mJZkdhSYZsfwcbFo/view?usp=sharing)
+- :page_facing_up: Podem ver meu curriculo [aqui](https://drive.google.com/file/d/1p2ClZ6X3unzuGZdBBeXD7sR4DXPHifbU/view?usp=sharing)
 
 #### Abaixo você pode entrar em contato comigo e/ou me conhecer melhor:
 
