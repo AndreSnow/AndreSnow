@@ -2,9 +2,9 @@
 Em 2020 comecei a cursar Analise e desenvolvimento de sistemas, desde então venho me empenhando cada vez mais para aprender a programar melhor, pois quero me tornar um otimo **Desenvolvedor**;
 
 
-- 🌱 Estou aprendendo Python e PHP
+- 🌱 Estou aprendendo PHP - Laravel e Python (por hobby)
 - 💬 Caso queira me perguntar algo, [clique aqui](https://github.com/andresnow/andresnow/issues)
-- :page_facing_up: Podem ver meu curriculo [aqui](https://drive.google.com/file/d/1p2ClZ6X3unzuGZdBBeXD7sR4DXPHifbU/view?usp=sharing)
+- :page_facing_up: Podem ver meu curriculo [aqui](https://drive.google.com/file/d/1gnuZo4tPeHP-lDDuXnwv8NE47FzgqHyo/view?usp=sharing)
 
 #### Abaixo você pode entrar em contato comigo e/ou me conhecer melhor:
 
@@ -17,16 +17,18 @@ Em 2020 comecei a cursar Analise e desenvolvimento de sistemas, desde então ven
 </a>
 
 <a href="https://wa.me/message/CRQY3GBEGCC5P1">
-  <img align="left" alt="Whatsapp do Andre" width="30px" src="https://image.flaticon.com/icons/png/128/134/134937.png" />
+  <img align="left" alt="Whatsapp do Andre" width="30px" src="https://cdn.icon-icons.com/icons2/729/PNG/512/whatsapp_icon-icons.com_62756.png" />
 </a>
 
 <br />
 <br />
 
 #### Essas são as ferramentas que eu estudo e desenvolvo meus projetos, atualmente:
-<img align="left" alt="Icone do python" height="30" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
+<img align="left" alt="Icone do laravel" height="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_168331.png">
 <img align="left" alt="Icone do php" height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png">
+<img align="left" alt="Icone do docker" height="30" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png">
 <img align="left" alt="Icone do sql" height="30" src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png">
+<img align="left" alt="Icone do python" height="30" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
 <img align="left" alt="Icone do html" height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
 <img align="left" alt="Icone do css" height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">
 <!--<img align="left" alt="Icone do flutter" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
