@@ -11,10 +11,10 @@ Em 2020 comecei a cursar Analise e desenvolvimento de sistemas, desde então ven
 <a href="https://www.linkedin.com/in/andr%C3%A9-n-922181a6/">
   <img align="left" alt="Linkedin de André Neves" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
-
+<!--
 <a href="https://discord.gg/zfdTWAvn">
   <img align="left" alt="Discord do Andre" width="30px" src="https://img.icons8.com/color/2x/discord-logo--v2.png?token=exp=1623545084~hmac=efc23393fc2930db27c62c1296e161d7" />
-</a>
+</a>-->
 
 <a href="https://wa.me/message/CRQY3GBEGCC5P1">
   <img align="left" alt="Whatsapp do Andre" width="30px" src="https://cdn.icon-icons.com/icons2/729/PNG/512/whatsapp_icon-icons.com_62756.png" />
