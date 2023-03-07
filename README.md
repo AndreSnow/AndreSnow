@@ -2,7 +2,9 @@
 Em 2020 comecei a cursar Analise e desenvolvimento de sistemas, desde então venho me empenhando cada vez mais para aprender a programar melhor, pois quero me tornar um otimo **Desenvolvedor**;
 
 
-- 🌱 Estou aprendendo PHP - Laravel e Python (por hobby)
+- Desenvolvedor backend
+- 🌱 Estudando .Net
+- Trabalho atualmente com PHP - Laravel
 - 💬 Caso queira me perguntar algo, [clique aqui](https://github.com/andresnow/andresnow/issues)
 - :page_facing_up: Podem ver meu curriculo [aqui](https://drive.google.com/file/d/1gnuZo4tPeHP-lDDuXnwv8NE47FzgqHyo/view?usp=sharing)
 
