@@ -1,5 +1,5 @@
-## E ai, Sou o André!
-Em 2020 comecei a cursar Analise e desenvolvimento de sistemas, desde então venho me empenhando cada vez mais para aprender a programar melhor, pois quero me tornar um otimo **Desenvolvedor**;
+## Prazer, André!
+Em 2020 comecei a cursar **Analise e desenvolvimento de sistemas**, desde então venho me empenhando cada vez mais para aprender a programar melhor, pois quero me tornar um otimo **Desenvolvedor**;
 
 
 - Desenvolvedor backend
