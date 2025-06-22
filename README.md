@@ -1,9 +1,8 @@
 ## Prazer, André!
-Em 2020 comecei a cursar **Analise e desenvolvimento de sistemas**, desde então venho me empenhando cada vez mais para aprender a programar melhor, pois quero me tornar um otimo **Desenvolvedor**;
+Me qualificando em **Engenharia de Software**, para ser a cada dia um desenvolvedor **MELHOR**;
 
 
 - Desenvolvedor backend;
-- Engenharia de Software (estudando);
 - Trabalho com Laravel e Python;
 - 💬 [Duvidas?](https://github.com/andresnow/andresnow/issues)
 - :page_facing_up: [Curriculo](https://drive.google.com/file/d/1gnuZo4tPeHP-lDDuXnwv8NE47FzgqHyo/view?usp=sharing)
