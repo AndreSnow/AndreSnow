@@ -25,7 +25,7 @@ Em 2020 comecei a cursar **Analise e desenvolvimento de sistemas**, desde então
 <br />
 <br />
 
-#### Essas são as ferramentas que eu estudo e desenvolvo meus projetos, atualmente:
+#### Essas são algumas das ferramentas que uso para trabalhar/estudar atualmente:
 <img align="left" alt="Icone do laravel" height="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_168331.png">
 <img align="left" alt="Icone do python" height="30" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
 <img align="left" alt="Icone do docker" height="30" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png">
