@@ -5,8 +5,8 @@ Em 2020 comecei a cursar **Analise e desenvolvimento de sistemas**, desde então
 - Desenvolvedor backend;
 - 🌱 Engenharia de Software (estudando);
 - Trabalho com Laravel e Python;
-- 💬 Duvidas?, [aqui](https://github.com/andresnow/andresnow/issues)
-- :page_facing_up: Curriculo [aqui](https://drive.google.com/file/d/1gnuZo4tPeHP-lDDuXnwv8NE47FzgqHyo/view?usp=sharing)
+- 💬 [Duvidas?](https://github.com/andresnow/andresnow/issues)
+- :page_facing_up: [Curriculo](https://drive.google.com/file/d/1gnuZo4tPeHP-lDDuXnwv8NE47FzgqHyo/view?usp=sharing)
 
 #### Outros contatos:
 
