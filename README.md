@@ -27,13 +27,17 @@ Em 2020 comecei a cursar **Analise e desenvolvimento de sistemas**, desde então
 
 #### Essas são as ferramentas que eu estudo e desenvolvo meus projetos, atualmente:
 <img align="left" alt="Icone do laravel" height="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_168331.png">
-<img align="left" alt="Icone do php" height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png">
-<img align="left" alt="Icone do docker" height="30" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png">
-<img align="left" alt="Icone do sql" height="30" src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png">
 <img align="left" alt="Icone do python" height="30" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
+<img align="left" alt="Icone do docker" height="30" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png">
+<img align="left" alt="Icone do mysql" height="30" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png">
+<img align="left" alt="Icone do mysql" height="30" src="https://images.icon-icons.com/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
+
+<!--
+<img align="left" alt="Icone do sql" height="30" src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png">
+<img align="left" alt="Icone do php" height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png">
 <img align="left" alt="Icone do html" height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
 <img align="left" alt="Icone do css" height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">
-<!--<img align="left" alt="Icone do flutter" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+<img align="left" alt="Icone do flutter" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 <img align="left" alt="Icone do dart" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 <img align="left" alt="Icone do firebase" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
 -->
