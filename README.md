@@ -29,7 +29,7 @@ Em 2020 comecei a cursar **Analise e desenvolvimento de sistemas**, desde então
 <img align="left" alt="Icone do laravel" height="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_168331.png">
 <img align="left" alt="Icone do python" height="30" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
 <img align="left" alt="Icone do docker" height="30" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png">
-<img align="left" alt="Icone do mysql" height="30" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png">
+<img align="left" alt="Icone do postgress" height="30" src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png">
 <img align="left" alt="Icone do mysql" height="30" src="https://images.icon-icons.com/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
 
 <!--
