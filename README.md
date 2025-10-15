@@ -1,8 +1,7 @@
-## Prazer, André!
-Me qualificando em **Engenharia de Software**, para ser a cada dia um desenvolvedor **MELHOR**;
+# André Neves
+Graduado em **Análise e Desenvolvimento de Sistemas** e me especializando em **Engenharia de Software**;
 
-
-- Desenvolvedor backend;
+- Desenvolvedor FullStack;
 - Trabalho com Laravel e Python;
 - 💬 [Duvidas?](https://github.com/andresnow/andresnow/issues)
 - :page_facing_up: [Curriculo](https://drive.google.com/file/d/1gnuZo4tPeHP-lDDuXnwv8NE47FzgqHyo/view?usp=sharing)
