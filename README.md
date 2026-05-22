@@ -6,7 +6,7 @@ Graduado em **Análise e Desenvolvimento de Sistemas**, pós-graduado em **Engen
 
 Atuo principalmente no desenvolvimento de aplicações web escaláveis, APIs e soluções backend utilizando Laravel, Python e Docker.
 
-## 🚀 Tecnologias e áreas de interesse
+## Tecnologias e áreas de interesse
 
 - Desenvolvimento FullStack
 - Laravel & PHP
@@ -18,11 +18,11 @@ Atuo principalmente no desenvolvimento de aplicações web escaláveis, APIs e s
 - Cibersegurança
 - Governança de Dados
 
-## 📫 Contato
+## Contato
 
-- 💬 [Dúvidas ou sugestões](https://github.com/andresnow/andresnow/issues)
-- 📄 [Currículo](https://drive.google.com/file/d/1gnuZo4tPeHP-lDDuXnwv8NE47FzgqHyo/view?usp=sharing)
-- 💼 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-n-922181a6/)
+- [Dúvidas ou sugestões](https://github.com/andresnow/andresnow/issues)
+- [Currículo](https://drive.google.com/file/d/1gnuZo4tPeHP-lDDuXnwv8NE47FzgqHyo/view?usp=sharing)
+- [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-n-922181a6/)
 
 <br>
 
@@ -37,7 +37,7 @@ Atuo principalmente no desenvolvimento de aplicações web escaláveis, APIs e s
 <br />
 <br />
 
-## 🛠 Ferramentas e tecnologias
+## Ferramentas e tecnologias
 
 <img align="left" alt="Laravel" height="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_168331.png">
 <img align="left" alt="Python" height="30" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
@@ -49,4 +49,6 @@ Atuo principalmente no desenvolvimento de aplicações web escaláveis, APIs e s
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresnow&theme=algolia&show_icons=true)
+## Estatísticas
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=andresnow&theme=algolia)](https://git.io/streak-stats)
